@@ -13,7 +13,6 @@ void setup() {
  controlP5.addButton("CLOSE DOOR").setPosition(300, 800).setSize(200, 100);
  controlP5.addButton("ALARM").setPosition(550, 800).setSize(200, 100);
 }
-
 void draw(){
  background(255); 
 } 
