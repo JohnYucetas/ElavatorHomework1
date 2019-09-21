@@ -14,3 +14,5 @@ ISSUES WITH CURRENT DESIGN
 -There is no emergency button
 
 POSSIBLE SOLUTION SKETCH
+
+![ElevatorSketch](https://user-images.githubusercontent.com/55510629/65379579-ff1c7580-dc8f-11e9-8306-3dfb11630e52.jpg)
