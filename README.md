@@ -16,3 +16,7 @@ ISSUES WITH CURRENT DESIGN
 POSSIBLE SOLUTION SKETCH
 
 ![ElevatorSketch](https://user-images.githubusercontent.com/55510629/65379579-ff1c7580-dc8f-11e9-8306-3dfb11630e52.jpg)
+
+We use elevators to move between florors
+
+Elevator control panels needs to be simple and easy use
